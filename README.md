@@ -22,4 +22,4 @@
 23. Тихонов Александр Витальевич
 24. Шамигулов Максим Артурович
 25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис")
-26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль")
+26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль") - [Макет](https://www.uistore.design/items/woo-landing-page-for-figma/ "Макет")
