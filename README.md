@@ -2,15 +2,15 @@
 2. [Александрова Анастасия](https://github.com/orubly "Александрова Анастасия") 
 3. Аминова Софья Азатовна
 4. [Ариков Ярослав](https://github.com/soojy "Ариков Ярослав") - [Макет](https://www.figma.com/file/mc4NyQ8AYUV7KjImsy5cVY/Valorant---Agents-page-concept-design-(Community)?node-id=1%3A2 "Макет")  
-5. [Байрамов Даниял](https://github.com/whitemalina "Байрамов Даниял") -[Макет](https://www.figma.com/file/tUS6aWt8x6TlJ2fQ29HxLN/LinkedIn-Redesign-(Copy)?node-id=0%3A1 "Макет") 
+5. [Байрамов Даниял](https://github.com/whitemalina "Байрамов Даниял") - [Макет](https://www.figma.com/file/tUS6aWt8x6TlJ2fQ29HxLN/LinkedIn-Redesign-(Copy)?node-id=0%3A1 "Макет") 
 6. [Грибкова Анастасия](https://github.com/AnastyasiaGri2022 "Грибкова Анастасия")
 7. [Дойбан Никита](https://github.com/nikitadoiban "Дойбан Никита")
 8. [Долгополов Павел](https://github.com/Pavel200218 "Долгополов Павел")
-9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") -[Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет")
+9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") - [Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет")
 11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод")
 12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей") - [Макет](https://www.uistore.design/items/tour-and-travel-website-for-figma/ "Макет")
 13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий")
-14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор") -[Макет](https://www.figma.com/file/5l6InHbmYKD1GQuIThwxb3/Gravity?node-id=0%3A1)
+14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор") - [Макет](https://www.figma.com/file/5l6InHbmYKD1GQuIThwxb3/Gravity?node-id=0%3A1)
 15. [Николаенко Владимир Андреевич](https://github.com/shizik9) - [Макет](https://www.figma.com/file/tFSM7FpVXuCu6YbKoTvRuK/woo-landing-page-for-figma?node-id=0%3A1 "Макет")
 16. Ниязов Роберт Рустамович
 17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей")
