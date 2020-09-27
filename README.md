@@ -13,7 +13,7 @@
 14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор") - [Макет](https://www.figma.com/file/5l6InHbmYKD1GQuIThwxb3/Gravity?node-id=0%3A1)
 15. [Николаенко Владимир Андреевич](https://github.com/shizik9) - [Макет](https://www.figma.com/file/tFSM7FpVXuCu6YbKoTvRuK/woo-landing-page-for-figma?node-id=0%3A1 "Макет")
 16. Ниязов Роберт Рустамович
-17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей")
+17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей") - [Макет](https://www.figma.com/file/Ufjh4SL8OZ3IJXwZ9F1uyW/Lo-fi-Wireframe-Kit-(Community)?node-id=758%3A1 "Макет")
 18. [Романова Софья](https://github.com/RomanovaSophia "Романова Софья") - [Макет](https://www.figma.com/file/ZI6u9GhiZyOENlbwqjHfuQ/traffico-landing-page-for-figma?node-id=0%3A1 "Макет")
 19. [Сакур Тарас Александрович](https://github.com/SakurGun "Сакур Тарас") - [Макет](https://www.figma.com/file/X8I0G7PzIREd6CkieTO2P0/tour-and-travel-website-for-figma?node-id=0%3A1 "Макет")
 20. [Самигуллин Рамазан](https://github.com/cr663stal "Самигуллин Рамазан")
