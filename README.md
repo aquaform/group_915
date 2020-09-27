@@ -8,7 +8,7 @@
 8. [Долгополов Павел](https://github.com/Pavel200218 "Долгополов Павел")
 9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") -[Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет")
 11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод")
-12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей")
+12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей") - [Макет](https://www.uistore.design/items/tour-and-travel-website-for-figma/ "Макет")
 13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий")
 14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор") -[Макет](https://www.figma.com/file/5l6InHbmYKD1GQuIThwxb3/Gravity?node-id=0%3A1)
 15. [Николаенко Владимир Андреевич](https://github.com/shizik9) - [Макет](https://www.figma.com/file/tFSM7FpVXuCu6YbKoTvRuK/woo-landing-page-for-figma?node-id=0%3A1 "Макет")
@@ -22,5 +22,4 @@
 23. Тихонов Александр Витальевич
 24. Шамигулов Максим Артурович
 25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис")
-26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль")
-
+26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль") - [Макет](https://www.uistore.design/items/woo-landing-page-for-figma/ "Макет")
