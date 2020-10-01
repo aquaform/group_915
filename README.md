@@ -9,7 +9,7 @@
 9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") - [Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет")
 11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод")
 12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей") - [Макет](https://www.uistore.design/items/tour-and-travel-website-for-figma/ "Макет")
-13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий")
+13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий") - [Макет](https://www.uistore.design/items/mntn-free-landing-page-for-figma/ "Макет")
 14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор") - [Макет](https://www.figma.com/file/5l6InHbmYKD1GQuIThwxb3/Gravity?node-id=0%3A1)
 15. [Николаенко Владимир](https://github.com/shizik9) - [Макет](https://www.figma.com/file/tFSM7FpVXuCu6YbKoTvRuK/woo-landing-page-for-figma?node-id=0%3A1 "Макет")
 16. Ниязов Роберт Рустамович
