@@ -16,7 +16,7 @@
 17. [Петров Матвей](https://github.com/MatveyPetrov "Петров Матвей") - [Макет](https://www.figma.com/file/Ufjh4SL8OZ3IJXwZ9F1uyW/Lo-fi-Wireframe-Kit-(Community)?node-id=758%3A1 "Макет")
 18. [Романова Софья](https://github.com/RomanovaSophia "Романова Софья") - [Макет](https://www.figma.com/file/ZI6u9GhiZyOENlbwqjHfuQ/traffico-landing-page-for-figma?node-id=0%3A1 "Макет")
 19. [Сакур Тарас](https://github.com/SakurGun "Сакур Тарас") - [Макет](https://www.figma.com/file/X8I0G7PzIREd6CkieTO2P0/tour-and-travel-website-for-figma?node-id=0%3A1 "Макет")
-20. [Самигуллин Рамазан](https://github.com/cr663stal "Самигуллин Рамазан")
+20. [Самигуллин Рамазан](https://github.com/cr663stal "Самигуллин Рамазан") - [Макет](https://www.figma.com/file/cYa1QMO3aI8fry1YKEaf8nvX/Templates-%2314.-More-on-Figma.info?node-id=1%3A2 "Макет")
 21. [Слывка Вадим](https://github.com/s4nzh1k "Слывка Вадим") - [Макет](https://www.uistore.design/items/traffico-landing-page-for-figma/ "Макет")
 22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета") - [Макет](https://www.figma.com/file/LBTG9XkicpIWdNKgoQXGFbuj/Templates-%239.-More-on-Figma.info?node-id=0%3A1 "Макет")
 23. Тихонов Александр Витальевич
