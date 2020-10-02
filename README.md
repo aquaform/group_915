@@ -7,7 +7,7 @@
 7. [Дойбан Никита](https://github.com/nikitadoiban "Дойбан Никита") - [Макет](https://figma.info/blog/templates/2019-05-24-shablon-zhilogo-kompleksa.html "Макет") - 4
 8. [Долгополов Павел](https://github.com/Pavel200218 "Долгополов Павел") - [Макет](https://www.figma.com/file/xHjAxd90oUnfpTQ5NZnSoz/Templates-%2317.-More-on-Figma.info?node-id=0%3A1 "Макет") - 4
 9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") - [Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет") - 5
-11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод") - [Макет](https://www.figma.com/file/BlYIuZ1KswVR9wlOTsY7JW/alivio-landing-page-for-figma?node-id=0%3A1 "Макет")
+11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод") - [Макет](https://www.figma.com/file/BlYIuZ1KswVR9wlOTsY7JW/alivio-landing-page-for-figma?node-id=0%3A1 "Макет") - 4
 12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей") - [Макет](https://www.uistore.design/items/tour-and-travel-website-for-figma/ "Макет") - 5
 13. [Маркианов Виталий](https://github.com/Azimov86xxx "Маркианов Виталий") - [Макет](https://www.uistore.design/items/mntn-free-landing-page-for-figma/ "Макет") - 4
 14. [Мирганов Сардор](https://github.com/msardor "Мирганов Сардор") - [Макет](https://www.figma.com/file/5l6InHbmYKD1GQuIThwxb3/Gravity?node-id=0%3A1) - 4
