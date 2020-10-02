@@ -1,5 +1,5 @@
 ﻿1. [Абдикеримова Бегимай](https://github.com/BegimayAbdi915 "Абдикеримова Бегимай") 
-2. [Александрова Анастасия](https://github.com/orubly "Александрова Анастасия") - [макет](https://www.figma.com/file/HAgx2OMYOfJJbiV4JrFyJP/CoinBase-Web-%26-Mobile-App-Design?node-id=0%3A1 "макет")
+2. [Александрова Анастасия](https://github.com/orubly "Александрова Анастасия") - [макет](https://www.figma.com/file/HAgx2OMYOfJJbiV4JrFyJP/CoinBase-Web-%26-Mobile-App-Design?node-id=0%3A1 "макет") - 4
 3. [Аминова Софья](https://github.com/Aminovasonya "Аминова Софья") - [Макет](https://www.figma.com/file/Kb2Bu4grzB2JqZ3LycITDuhZ/Templates-%237.-More-on-Figma.info?node-id=0%3A1 "Макет") - 4
 4. [Ариков Ярослав](https://github.com/soojy "Ариков Ярослав") - [Макет](https://www.figma.com/file/mc4NyQ8AYUV7KjImsy5cVY/Valorant---Agents-page-concept-design-(Community)?node-id=1%3A2 "Макет")  
 5. [Байрамов Даниял](https://github.com/whitemalina "Байрамов Даниял") - [Макет](https://www.figma.com/file/tUS6aWt8x6TlJ2fQ29HxLN/LinkedIn-Redesign-(Copy)?node-id=0%3A1 "Макет") 
