@@ -19,8 +19,8 @@
 20. [Самигуллин Рамазан](https://github.com/cr663stal "Самигуллин Рамазан") - [Макет](https://www.figma.com/file/cYa1QMO3aI8fry1YKEaf8nvX/Templates-%2314.-More-on-Figma.info?node-id=1%3A2 "Макет") - 4
 21. [Слывка Вадим](https://github.com/s4nzh1k "Слывка Вадим") - [Макет](https://www.uistore.design/items/traffico-landing-page-for-figma/ "Макет") - 5
 22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета") - [Макет](https://www.figma.com/file/LBTG9XkicpIWdNKgoQXGFbuj/Templates-%239.-More-on-Figma.info?node-id=0%3A1 "Макет") - 5
-23. Тихонов Александр Витальевич - 4
+23. Тихонов Александр Витальевич - 2
 24. Шамигулов Максим Артурович -2
-25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис") - [Макет](https://www.figma.com/file/Myag3S95x3hazO9ofUw3F5/Medi---Multi-Screens "Макет") - 4
+25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис") - [Макет](https://www.figma.com/file/Myag3S95x3hazO9ofUw3F5/Medi---Multi-Screens "Макет") - 4 - поменять макет
 26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль") - [Макет](https://www.uistore.design/items/woo-landing-page-for-figma/ "Макет") - 5
 
