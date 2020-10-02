@@ -21,6 +21,6 @@
 22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета") - [Макет](https://www.figma.com/file/LBTG9XkicpIWdNKgoQXGFbuj/Templates-%239.-More-on-Figma.info?node-id=0%3A1 "Макет")
 23. Тихонов Александр Витальевич
 24. Шамигулов Максим Артурович
-25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис")
+25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис") - [Макет](https://www.figma.com/file/Myag3S95x3hazO9ofUw3F5/Medi---Multi-Screens "Макет") - 4
 26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль") - [Макет](https://www.uistore.design/items/woo-landing-page-for-figma/ "Макет") - 4
 
