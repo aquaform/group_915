@@ -4,7 +4,7 @@
 4. [Ариков Ярослав](https://github.com/soojy "Ариков Ярослав") - [Макет](https://www.figma.com/file/mc4NyQ8AYUV7KjImsy5cVY/Valorant---Agents-page-concept-design-(Community)?node-id=1%3A2 "Макет")  
 5. [Байрамов Даниял](https://github.com/whitemalina "Байрамов Даниял") - [Макет](https://www.figma.com/file/tUS6aWt8x6TlJ2fQ29HxLN/LinkedIn-Redesign-(Copy)?node-id=0%3A1 "Макет") 
 6. [Грибкова Анастасия](https://github.com/AnastyasiaGri2022 "Грибкова Анастасия") - [Макет](https://www.uistore.design/items/alivio-landing-page-for-figma/ "Макет")
-7. [Дойбан Никита](https://github.com/nikitadoiban "Дойбан Никита")
+7. [Дойбан Никита](https://github.com/nikitadoiban "Дойбан Никита") - [Макет](https://figma.info/blog/templates/2019-05-24-shablon-zhilogo-kompleksa.html "Макет") - 4
 8. [Долгополов Павел](https://github.com/Pavel200218 "Долгополов Павел")
 9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") - [Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет")
 11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод")
