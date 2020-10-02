@@ -5,7 +5,7 @@
 5. [Байрамов Даниял](https://github.com/whitemalina "Байрамов Даниял") - [Макет](https://www.figma.com/file/tUS6aWt8x6TlJ2fQ29HxLN/LinkedIn-Redesign-(Copy)?node-id=0%3A1 "Макет") 
 6. [Грибкова Анастасия](https://github.com/AnastyasiaGri2022 "Грибкова Анастасия")
 7. [Дойбан Никита](https://github.com/nikitadoiban "Дойбан Никита")
-8. [Долгополов Павел](https://github.com/Pavel200218 "Долгополов Павел")
+8. [Долгополов Павел](https://github.com/Pavel200218 "Долгополов Павел") - [Макет](https://www.figma.com/file/xHjAxd90oUnfpTQ5NZnSoz/Templates-%2317.-More-on-Figma.info?node-id=0%3A1 "Макет")
 9. [Заболотских Матвей](https://github.com/Mathway "Заболотских Матвей") - [Макет](https://www.figma.com/file/8NlS4GVsFTizULz2n4E6Ue/Covid-19-Landing-Page-For-Figma?node-id=0%3A1 "Макет")
 11. [Каноатов Дилшод](https://github.com/Klubnika662banan "Каноатов Дилшод")
 12. [Лошаков Сергей](https://github.com/LoskakovSergey915 "Лошаков Сергей") - [Макет](https://www.uistore.design/items/tour-and-travel-website-for-figma/ "Макет")
