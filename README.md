@@ -20,6 +20,6 @@
 21. [Слывка Вадим](https://github.com/s4nzh1k "Слывка Вадим") - [Макет](https://www.uistore.design/items/traffico-landing-page-for-figma/ "Макет")
 22. [Солодовникова Елизавета](https://github.com/solodovkina "Солодовникова Елизавета")
 23. Тихонов Александр Витальевич
-24. Шамигулов Максим Артурович
+24. [Шамигулов Максим](https://github.com/chatlers) - [Макет](https://www.figma.com/file/nDcym86UA1SfrtIlU3KPcz/Templates-%2317.-More-on-Figma.info-(Copy)?node-id=0%3A1&viewport=694%2C569%2C0.21872848272323608)
 25. [Щегельский Денис](https://github.com/lordguzlik "Щегельский Денис")
 26. [Яикбаев Рауль](https://github.com/Raul1011 "Яикбаев Рауль")
